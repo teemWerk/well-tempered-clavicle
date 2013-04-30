@@ -11,6 +11,6 @@ For it to be useful, boot up the openFrameworks app included in the repo.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Timothy Cantwell
 
 Distributed under the Eclipse Public License, the same as Clojure.
