@@ -1,6 +1,6 @@
 # clavicle
 
-A script for Overtone to play music with an accompanying app made in openFrameworks. The two communicate over OSC.
+A clojure script for Overtone to play music with an accompanying application made in openFrameworks. The two communicate over OSC.
 
 ## Usage
 
