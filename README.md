@@ -10,11 +10,11 @@ to be available on windows.
 openFrameworks components:
 --------------------------
 clavicle makes extensive use of addons. Those addons needed which aren't in the core are:  
-*[ofxControlPanel](https://github.com/kylemcdonald/ofxControlPanel)  
-*[ofxCv](https://github.com/kylemcdonald/ofxCv)  
-*[ofxKinect](https://github.com/ofTheo/ofxKinect)  
-*[ofxBox2d](https://github.com/vanderlin/ofxBox2d)  
+*   [ofxControlPanel](https://github.com/kylemcdonald/ofxControlPanel)  
+*   [ofxCv](https://github.com/kylemcdonald/ofxCv)  
+*   [ofxKinect](https://github.com/ofTheo/ofxKinect)  
+*   [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  
 and core addons:  
-*ofxOsc  
-*ofxXmlSettings  
-*ofxOpenCv
+*   ofxOsc  
+*   ofxXmlSettings  
+*   ofxOpenCv
